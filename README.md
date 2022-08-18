@@ -16,8 +16,8 @@
 
 ### Skills Gained from this
 
-- Learned about invert anf filter properties to change the color upon hover.
-- Using Flexbox it is easier to copy paste the style and use flex-col, flex-row, flex-reverse to change content flow/layout.
+- Learned about invert and filter properties to change the color upon hover.
+- Using Flexbox, it is easier to copy paste the style and use flex-col, flex-row, flex-reverse to change content flow/layout.
 
 ### Screenshot
 
